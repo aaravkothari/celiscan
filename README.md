@@ -1,1 +1,1 @@
-This is my personal finance tracker
+An interface
