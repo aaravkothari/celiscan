@@ -1,1 +1,1 @@
-This is my CeliScan app that leverages my multi-modal support vector machine learning framework for celiac disease diagnoses.
+This is the CeliScan app that acts as an interface and tool while also leveraging my multi-modal support vector machine learning framework for celiac disease diagnoses.
